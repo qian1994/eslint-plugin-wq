@@ -1,0 +1,8 @@
+module.exports = {
+  testEnvironment: 'node',
+  roots: ['__tests__'],
+  resetModules: true,
+  clearMocks: true,
+  verbose: true,
+  testMatch: ['**/*.test.js']
+}

@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-swfe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "requireindex": "^1.2.0"
+  }
+}
